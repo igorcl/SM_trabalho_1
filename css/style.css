@@ -6,3 +6,23 @@ td ul {
   list-style-type:none;
   border: 1px dotted;
 }
+
+td ul li {
+  border: 1px dotted;
+  color: white;
+  margin-left: -40px;
+  padding: 2px;
+}
+
+/* li + li {
+  margin-left: 5px
+} */
+
+ul span {
+  margin-left: 20px
+}
+
+.table-right {
+  border-collapse: collapse;
+  border: 1px solid #f2f2f2;
+}
